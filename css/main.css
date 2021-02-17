@@ -1,0 +1,46 @@
+/*
+0123456789abcdef
+*/
+
+
+body {
+  font-size: 60%;
+  font-family: sans-serif;
+  background-color: #efd;
+}
+
+h1 {
+  font-family: monospace;
+  border: 1px solid #000;
+  font-size: 5em;
+}
+
+ p {
+  font-family: Georgia;
+  line-height: 1; 
+   font-size: 2em;
+}
+
+p.intro {
+  font-size: 2em;
+  line-height: 0.5;
+  padding: 1em;
+  border: 1px solid #000;
+  margin: 1em;
+}
+
+strong {
+  display: block;
+  padding: 1em;
+  border: 1px solid #000;
+  margin: 1em;
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 3em;
+}
+
+h3 {
+  font-family: monospace;
+  font-size: 3em;
