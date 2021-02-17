@@ -45,7 +45,7 @@ h3 {
   font-family: monospace;
   font-size: 2.5em;
 
-  ul {
+ul {
   font-family: monospace;
   font-size: 2.5em;
 }
@@ -53,3 +53,4 @@ h3 {
 ol {
   font-family: monospace;
   font-size: 2.5em;
+}
