@@ -6,7 +6,9 @@
 body {
   font-size: 60%;
   font-family: sans-serif;
-  background-color: #efd;
+  background-color: #edf;
+  max-width: 40em;
+  padding: 0 5%;
   margin: 0 auto;
 }
 
