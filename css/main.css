@@ -41,6 +41,11 @@ h2 {
   font-size: 3em;
 }
 
-h3 {
+ul {
   font-family: monospace;
-  font-size: 3em;
+  font-size: 1em;
+}
+
+ol {
+  font-family: monospace;
+  font-size: 1em;
