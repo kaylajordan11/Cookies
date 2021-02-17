@@ -10,9 +10,11 @@ body {
 }
 
 h1 {
-  font-family: monospace;
-  border: 1px solid #000;
-  font-size: 5em;
+ font-size: 4em;
+  line-height: 1.25;
+  padding: 1em;
+  border: 2px solid #000;
+  margin: 1em;
 }
 
  p {
