@@ -49,17 +49,10 @@ h2 {
 h3 {
   font-family: monospace;
   font-size: 2.5em;
-
-ul. li {
-  font-family: monospace;
-  font-size: 2.5em;
 }
 
-ol {
+ li {
+  font-size: 1.5em; /* 40px/16=2.5em */
   font-family: monospace;
-  font-size: 2.5em;
-}
-  
-  dl {
-    font-family: times roman numeral;
-      font-size: 2.5em;
+   opacity: 1;  
+  }
