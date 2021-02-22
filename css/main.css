@@ -68,3 +68,9 @@ dd {
   font-family: monospace;
    opacity: 1;  
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
