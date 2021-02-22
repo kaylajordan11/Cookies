@@ -58,7 +58,13 @@ h3 {
   }
 
 dt {
- font-size: 1.5em; /* 40px/16=2.5em */
+ font-size: 2em; /* 40px/16=2.5em */
+  font-family: monospace;
+   opacity: 1;  
+}
+
+dd {
+ font-size: 2em; /* 40px/16=2.5em */
   font-family: monospace;
    opacity: 1;  
 }
