@@ -50,7 +50,7 @@ h3 {
   font-family: monospace;
   font-size: 2.5em;
 
-ul li {
+ul. li {
   font-family: monospace;
   font-size: 2.5em;
 }
@@ -59,3 +59,7 @@ li {
   font-family: monospace;
   font-size: 2.5em;
 }
+  
+  dl {
+    font-family: times roman numeral;
+      font-size: 2.5em;
