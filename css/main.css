@@ -105,3 +105,7 @@ img {
   border-bottom: 0.1em solid #f00;
   border-right: 0.1em solid #f00;
   }
+
+#ingredients h2::marker {
+  content: "";
+}
