@@ -90,7 +90,7 @@ img {
   left: 0;
   content: "";
   width: 50%;
-  padding-top: 2em;
+  padding-top: 50em;
   border-top: 0.1em solid #f00;
   border-left: 0.1em solid #f00;
 }
@@ -102,7 +102,7 @@ img {
   left: 0;
   content: "";
   width: 50%;
-  padding-top: 2em;
+  padding-top: 50em;
   border-bottom: 3em solid #fff;
   border-right: 3em solid #fff;
   }
