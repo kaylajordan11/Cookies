@@ -89,7 +89,7 @@ img {
   top: 0;
   left: 0;
   content: "";
-  width: 50%;
+  width: 100%;
   padding-top: 50em;
   border-top: 3em solid #fff;
   border-left: 3em solid #fff;
@@ -101,7 +101,7 @@ img {
   top: 0;
   left: 0;
   content: "";
-  width: 50%;
+  width: 100%;
   padding-top: 50em;
   border-bottom: 3em solid #fff;
   border-right: 3em solid #fff;
