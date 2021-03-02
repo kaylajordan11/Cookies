@@ -91,7 +91,7 @@ img {
   content: "";
   width: 100%;
   padding-top: 50em;
-  padding-right: 50em;
+  padding-right: 35em;
   border-top: 2.5em solid #fff;
   border-left: 2.5em solid #fff;
 }
@@ -103,8 +103,8 @@ img {
   left: 0;
   content: "";
   width: 100%;
-  padding-top: 50em;
-  padding-right: 50em;
+  padding-top: 100em;
+  padding-right: 35em;
   border-bottom: 2.5em solid #fff;
   border-right: 2.5em solid #fff;
   }
