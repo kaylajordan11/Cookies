@@ -92,8 +92,8 @@ img {
   width: 100%;
   padding-top: 50em;
   padding-right: 50em;
-  border-top: 3em solid #fff;
-  border-left: 3em solid #fff;
+  border-top: 2.5em solid #fff;
+  border-left: 2.5em solid #fff;
 }
 
 #ingredients::after {
@@ -105,8 +105,8 @@ img {
   width: 100%;
   padding-top: 50em;
   padding-right: 50em;
-  border-bottom: 3em solid #fff;
-  border-right: 3em solid #fff;
+  border-bottom: 2.5em solid #fff;
+  border-right: 2.5em solid #fff;
   }
 
 #ingredients h2::marker {
