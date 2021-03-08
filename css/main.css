@@ -6,7 +6,7 @@
 body {
   font-size: 60%;
   font-family: sans-serif;
-  background-color: #DBC6A8;
+  background-color: #FBE4C6;
   max-width: 50em;
   padding: 0 5%;
   margin: 0 auto;
@@ -19,13 +19,14 @@ h1 {
   border: 2px solid #000;
   margin: 1em;
   text-align: center;
-  color: #fff; /* #rgb */
+  color: #463425; /* #rgb */
 }
 
  p {
   font-family: Georgia;
   line-height: 1; 
    font-size: 2em;
+   color:#463425;
 }
 
 p.intro {
@@ -34,6 +35,7 @@ p.intro {
   padding: 1em;
   border: 1px solid #000;
   margin: 1em;
+  color:#463425;
 }
 
 strong {
@@ -46,11 +48,13 @@ strong {
 summary {
   font-family: monospace;
   font-size: 3em;
+  color:#463425;
 }
 
 h3 {
   font-family: monospace;
   font-size: 2.5em;
+  color:#463425;
 }
 
  li {
@@ -63,17 +67,20 @@ dt {
  font-size: 1.5em; /* 40px/16=2.5em */
   font-family: Georgia;
    opacity: 1;  
+  color:#463425;
 }
 
 dd {
  font-size: 1.5em; /* 40px/16=2.5em */
   font-family: Georgia;
    opacity: 1;  
+  color:#463425;
   
   figcaption {
   font-size: 0.5em; /* 40px/16=2.5em */
   font-family: Georgia;
    opacity: 1;  
+    color:#463425;
   }
 }
 
