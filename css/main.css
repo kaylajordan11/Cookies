@@ -112,3 +112,11 @@ img {
 #ingredients h2::marker {
   content: "";
 }
+
+.list-steps li::before {
+  display: block;
+  content: "Step " counter(list-item) ":";
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
