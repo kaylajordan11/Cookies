@@ -89,7 +89,7 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-
+/*
 #ingredients::before {
   display: block;
   position: absolute;
@@ -115,7 +115,7 @@ img {
   border-bottom: 0.5em solid #463425;
   border-right: 0.5em solid #463425;
   }
-
+*/
 #ingredients h2::marker {
   content: "";
 }
