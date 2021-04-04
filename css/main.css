@@ -7,8 +7,8 @@ body {
   font-size: 60%;
   font-family: sans-serif;
   background-color: #DBC6A8;
-  max-width: 50em;
-  padding: 0 5%;
+  max-width: 48rem; /*max-wodth layout for wider screens*/
+  padding: 0 1rem;
   margin: 0 auto;
 }
 
