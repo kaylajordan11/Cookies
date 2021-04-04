@@ -127,3 +127,15 @@ img {
   text-transform: uppercase;
   margin-bottom: 0.5rem;
 }
+a:link: {
+  color: brown;
+}
+a:visited: {
+  color: brown;
+}
+a:hover {
+  color: white;
+}
+a:active {
+  color: brown;
+}
