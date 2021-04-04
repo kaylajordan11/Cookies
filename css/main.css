@@ -131,14 +131,14 @@ img {
   margin-bottom: 0.5rem;
 }
 a:link: {
-  color: brown;
+  color: #654321;
 }
 a:visited: {
-  color: brown;
+  color: #654321;
 }
 a:hover {
   color: white;
 }
 a:active {
-  color: brown;
+  color: #654321;
 }
