@@ -19,14 +19,14 @@ h1 {
   border: 2px solid #000;
   margin: 1em;
   text-align: center;
-  color: #463425; /* #rgb */
+  color: #654321; /* #rgb */
 }
 
  p {
   font-family: Georgia;
   line-height: 1; 
    font-size: 2em;
-   color:#463425;
+   color: #654321;
 }
 
 p.intro {
@@ -35,7 +35,7 @@ p.intro {
   padding: 1em;
   border: 1px solid #000;
   margin: 1em;
-  color:#463425;
+  color: #654321;
 }
 
 strong {
