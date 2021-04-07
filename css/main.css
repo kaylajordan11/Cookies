@@ -83,6 +83,7 @@ dd {
   font-family: Georgia;
    opacity: 1;  
   color:#463425;
+}
   
   figcaption {
   font-size: 0.5em; /* 40px/16=2.5em */
@@ -90,7 +91,7 @@ dd {
   opacity: 1;  
   font-color:#463425;
   }
-}
+
 
 img {
   display: block;
@@ -140,10 +141,10 @@ img {
   text-transform: uppercase;
   margin-bottom: 0.5rem;
 }
-a:link: {
+a:link {
   color: #654321;
 }
-a:visited: {
+a:visited {
   color: #654321;
 }
 a:hover {
