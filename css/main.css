@@ -19,14 +19,14 @@ h1 {
   border: 2px solid #654321;
   margin: 1em;
   text-align: center;
-  color: #654321; /* #rgb */
+  color: #342211; /* #rgb */
 }
 
  p {
   font-family: Georgia;
   line-height: 1; 
    font-size: 2em;
-   color: #654321;
+   color: #342211;
 }
 
 p.intro {
@@ -35,7 +35,7 @@ p.intro {
   padding: 1em;
   border: 1px solid #000;
   margin: 1em;
-  color: #654321;
+  color: #342211;
 }
 
 strong {
@@ -48,21 +48,21 @@ strong {
 summary {
   font-family: monospace;
   font-size: 3em;
-  color:#463425;
+  color:#342211;
 }
 
 h3 {
   font-family: monospace;
   font-size: 2.5em;
-  color:#463425;
+  color:#342211;
 }
 
 ul {
-  color: #463425;
+  color: #342211;
 }
 
 ol {
-  color: #463425;
+  color: #342211;
 }
 
  li {
@@ -75,21 +75,21 @@ dt {
  font-size: 1.5em; /* 40px/16=2.5em */
   font-family: Georgia;
    opacity: 1;  
-  color:#463425;
+  color:#342211;
 }
 
 dd {
  font-size: 1.5em; /* 40px/16=2.5em */
   font-family: Georgia;
    opacity: 1;  
-  color:#463425;
+  color:#342211;
 }
   
   figcaption {
   font-size: 0.5em; /* 40px/16=2.5em */
   font-family: Georgia;
   opacity: 1;  
-  font-color:432211;
+  font-color:#342211;
   }
 
 
@@ -142,14 +142,14 @@ img {
   margin-bottom: 0.5rem;
 }
 a:link {
-  color: #654321;
+  color: #342211;
 }
 a:visited {
-  color: #654321;
+  color: #342211;
 }
 a:hover {
   color: white;
 }
 a:active {
-  color: #654321;
+  color: #342211;
 }
