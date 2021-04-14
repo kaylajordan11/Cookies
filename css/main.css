@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 2em;
   font-family: Georgia;
   line-height: 2em;
   padding: 1em;
@@ -26,22 +26,22 @@ h1 {
 
 h2 {
   font-family: georgia;
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: 1em; 
   line-height: 1.25em;
   color: #342211;
 }
 
  p {
   font-family: Georgia;
-  line-height: 1.25em; /* 40px/16=2.5em */
-  font-size: 1.5em;
+  line-height: 1.25em; 
+  font-size: 1em;
   color: #342211;
 }
 
 p.intro {
-  font-size: .5em; /* 40px/16=2.5em */
+  font-size: 1em;
   font-family: Georgia;
-  line-height: .25em;
+  line-height: 1.25em;
   padding: 1em;
   border: 1px solid #000;
   margin: 1em;
@@ -57,47 +57,47 @@ strong {
 
 summary {
   font-family: Georgia;
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: 1em; 
   color:#342211;
 }
 
 ul {
   color: #342211;
   font-family: Georgia;
-  font-size: 1.5em;
-  line-height: .25em;
+  font-size: 1em;
+  line-height: 1.25em;
 }
 
 ol {
   color: #342211;
   font-family: Georgia;
-  font-size: 1.5em;
-  line-height: .25em;
+  font-size: 1em;
+  line-height: 1.25em;
 }
 
  li {
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: 1em; 
   font-family: Georgia;
-  line-height: .25em;
+  line-height: 1.25em;
   opacity: 1;  
   }
 
 dt {
- font-size: 1.5em; /* 40px/16=2.5em */
+ font-size: 1em; 
  font-family: Georgia;
  opacity: 1;  
  color:#342211;
 }
 
 dd {
- font-size: 1.5em; /* 40px/16=2.5em */
+ font-size: 1em; 
  font-family: Georgia;
  opacity: 1;  
  color:#342211;
 }
   
   figcaption {
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: 1em;
   font-family: Georgia;
   color:#342211;
   opacity: 1;  
@@ -155,7 +155,7 @@ img {
 a:link {
   color: #342211;
   text-decoration: none;
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: 1em; 
 }
 a:visited {
   color: #342211;
