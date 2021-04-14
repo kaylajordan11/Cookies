@@ -15,7 +15,7 @@ body {
 h1 {
   font-size: 2em;
   font-family: Georgia;
-  line-height: 2em;
+  line-height: 1.5em;
   padding: 1em;
   border: 2px solid #654321;
   margin: 1em;
@@ -27,13 +27,13 @@ h1 {
 h2 {
   font-family: georgia;
   font-size: 1em; 
-  line-height: 1.25em;
+  line-height: 1.5em;
   color: #342211;
 }
 
  p {
   font-family: Georgia;
-  line-height: 1.25em; 
+  line-height: 1.5em; 
   font-size: 1em;
   color: #342211;
 }
@@ -41,7 +41,7 @@ h2 {
 p.intro {
   font-size: 1em;
   font-family: Georgia;
-  line-height: 1.25em;
+  line-height: 1.5em;
   padding: 1em;
   border: 1px solid #000;
   margin: 1em;
@@ -65,26 +65,27 @@ ul {
   color: #342211;
   font-family: Georgia;
   font-size: 1em;
-  line-height: 1.25em;
+  line-height: 1.5em;
 }
 
 ol {
   color: #342211;
   font-family: Georgia;
   font-size: 1em;
-  line-height: 1.25em;
+  line-height: 1.5em;
 }
 
  li {
   font-size: 1em; 
   font-family: Georgia;
-  line-height: 1.25em;
+  line-height: 1.5em;
   opacity: 1;  
   }
 
 dt {
  font-size: 1em; 
  font-family: Georgia;
+ line-height: 1.5em;
  opacity: 1;  
  color:#342211;
 }
@@ -92,6 +93,7 @@ dt {
 dd {
  font-size: 1em; 
  font-family: Georgia;
+ line-height: 1.5em;
  opacity: 1;  
  color:#342211;
 }
