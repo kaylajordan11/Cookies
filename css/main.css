@@ -98,12 +98,12 @@ dd {
  color:#342211;
 }
   
-  figcaption {
-  font-size: 1em;
-  font-family: Georgia;
-  color:#342211;
-  opacity: 1;  
-  }
+figcaption {
+font-size: .5em;
+font-family: Georgia;
+color:#342211;
+opacity: 1;  
+}
 
 
 img {
