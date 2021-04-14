@@ -15,7 +15,7 @@ body {
 h1 {
   font-size: 4em;
   font-family: Georgia;
-  line-height: 1.25em;
+  line-height: .25em;
   padding: 1em;
   border: 2px solid #654321;
   margin: 1em;
@@ -27,21 +27,21 @@ h1 {
 h2 {
   font-family: georgia;
   font-size: 1.5em; /* 40px/16=2.5em */
-  line-height: 1.25em;
+  line-height: .25em;
   color: #342211;
 }
 
  p {
   font-family: Georgia;
-  line-height: 1.25em; /* 40px/16=2.5em */
-  font-size: 2em;
+  line-height: .25em; /* 40px/16=2.5em */
+  font-size: 1.5em;
   color: #342211;
 }
 
 p.intro {
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: .5em; /* 40px/16=2.5em */
   font-family: Georgia;
-  line-height: 1.25em;
+  line-height: .25em;
   padding: 1em;
   border: 1px solid #000;
   margin: 1em;
@@ -65,20 +65,20 @@ ul {
   color: #342211;
   font-family: Georgia;
   font-size: 1.5em;
-  line-height: 1.25em;
+  line-height: .25em;
 }
 
 ol {
   color: #342211;
   font-family: Georgia;
   font-size: 1.5em;
-  line-height: 1.25em;
+  line-height: .25em;
 }
 
  li {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: Georgia;
-  line-height: 1.25em;
+  line-height: .25em;
   opacity: 1;  
   }
 
