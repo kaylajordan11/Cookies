@@ -4,7 +4,7 @@
 
 
 body {
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: 1.5em; 
   font-family: Georgia;
   background-color: #DBC6A8;
   max-width: 48rem; /*max-width layout for wider screens*/
@@ -15,7 +15,7 @@ body {
 h1 {
   font-size: 4em;
   font-family: Georgia;
-  line-height: .25em;
+  line-height: 1.25em;
   padding: 1em;
   border: 2px solid #654321;
   margin: 1em;
@@ -27,13 +27,13 @@ h1 {
 h2 {
   font-family: georgia;
   font-size: 1.5em; /* 40px/16=2.5em */
-  line-height: .25em;
+  line-height: 1.25em;
   color: #342211;
 }
 
  p {
   font-family: Georgia;
-  line-height: .25em; /* 40px/16=2.5em */
+  line-height: 1.25em; /* 40px/16=2.5em */
   font-size: 1.5em;
   color: #342211;
 }
