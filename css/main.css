@@ -64,19 +64,17 @@ summary {
 ul {
   color: #342211;
   font-family: Georgia;
-  font-size: 1em;
+  font-size: em;
   line-height: 1.5em;
 }
 
 ol {
   color: #342211;
   font-family: Georgia;
-  font-size: 1em;
   line-height: 1.5em;
 }
 
  li {
-  font-size: 1em; 
   font-family: Georgia;
   line-height: 1.5em;
   opacity: 1;  
