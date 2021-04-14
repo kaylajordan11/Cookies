@@ -4,7 +4,7 @@
 
 
 body {
-  font-size: 60%;
+  font-size: 1.5em; /* 40px/16=2.5em */
   font-family: sans-serif;
   background-color: #DBC6A8;
   max-width: 48rem; /*max-width layout for wider screens*/
@@ -25,20 +25,20 @@ h1 {
 
 h2 {
   font-family: georgia;
-  font-size: 1em;
+  font-size: 1.5em; /* 40px/16=2.5em */
   line-height: 1em;
   color: #342211;
 }
 
  p {
   font-family: Georgia;
-  line-height: 1; 
+  line-height: 1.5em; /* 40px/16=2.5em */
    font-size: 2em;
    color: #342211;
 }
 
 p.intro {
-  font-size: 2em;
+  font-size: 1.5em; /* 40px/16=2.5em */
   line-height: 0.5;
   padding: 1em;
   border: 1px solid #000;
@@ -55,7 +55,7 @@ strong {
 
 summary {
   font-family: monospace;
-  font-size: 3em;
+  font-size: 1.5em; /* 40px/16=2.5em */
   color:#342211;
 }
 
@@ -68,7 +68,7 @@ ol {
 }
 
  li {
-  font-size: 2em; /* 40px/16=2.5em */
+  font-size: 1.5em; /* 40px/16=2.5em */
   font-family: Georgia;
    opacity: 1;  
   }
@@ -88,7 +88,7 @@ dd {
 }
   
   figcaption {
-  font-size: 0.5em; /* 40px/16=2.5em */
+  font-size: 1.5em; /* 40px/16=2.5em */
   font-family: Georgia;
   color:#342211;
   opacity: 1;  
@@ -146,7 +146,7 @@ img {
 a:link {
   color: #342211;
   text-decoration: none;
-  font-size: 1em;
+  font-size: 1.5em; /* 40px/16=2.5em */
 }
 a:visited {
   color: #342211;
